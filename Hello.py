@@ -1,2 +1,3 @@
 print('Hello Git!')
-print('New Edition')
+print('New Edition'
+print('Third Edition')
